@@ -1,0 +1,9 @@
+
+Hyperopt trials
+tid,loss,learning_rate,batch_size,time, num_epochs
+0,0.642233,0.000015,0,32.207809, 50
+1,0.633642,0.000022,1,21.924754, 50
+
+Best parameters:{'batch_size': 128, 'learning_rate': 2.2341241263244448e-05, 'n_classes': 2, 'num_fuzzy_terms': (9,)}
+
+Best Time taken: 21.924754
