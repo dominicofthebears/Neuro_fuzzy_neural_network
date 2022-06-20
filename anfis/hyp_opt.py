@@ -119,7 +119,7 @@ def fit_and_score(params):
     results_dict[key] = val
 
     keys = sorted(list(results_dict.keys()))
-    f = open("../results/test/" + dataset + "_" + str(n_features) + "_test_results.csv", "w")
+    f = open("../results/test/" + dataset + "_" + str(n_features) + "_" + approach + "_test_results.csv", "w")
     f.write("SELECTED COLUMNS;" + "\n")
     for element in columns_sel:
         f.write(element + "\n")
