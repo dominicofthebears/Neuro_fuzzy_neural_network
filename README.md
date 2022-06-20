@@ -40,7 +40,7 @@ https://www.unb.ca/cic/datasets/ids-2017.html
         │    ├ feature_type_extraction.py       contiene metodi utilizzati inizialmente per determinare il tipo di ciascuna feature (continuo o discreto)           
         │    ├ preprocessing.py                 contiene i metodi di discretizzazione ed un frequency encoder usato in fase di preprocessing  
         ├── feature_preprocessing            directory contenente gli istrogrammi prodotti in alcuni esprimenti
-        │    ├ maldroid                         directory contenente gli istogrammi prodotti in fase di discretizzazione delle features di maldroid per verificarne         │    │                                  la distribuzione di esempi
+        │    ├ maldroid                         directory contenente gli istogrammi prodotti in fase di discretizzazione delle features di maldroid per verificarne           │    │                                  la distribuzione di esempi
         ├── log_files                        directory contenente i file di log prodotti dagli esperimenti, sia per maldroid che per CICIDS
         ├── models                           directory contenente i file .h5, ovvero i modelli salvati al termine di ogni esperimento
         ├── plots                            directory contenente i grafici dell'errore dei modelli calcolato durante gli esperimenti
