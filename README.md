@@ -79,7 +79,7 @@ del file sarà "nomeDataset_numeroFeatures_learningRate"
 * scipy==1.6.0
 * torch==1.10.2
 * tqdm==4.62.3<br>
-* 
+
 **Versione di python utilizzata: python 3.9**
 
 
