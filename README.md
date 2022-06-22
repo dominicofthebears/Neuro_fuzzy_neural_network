@@ -65,6 +65,21 @@ del file sarà "nomeDataset_numeroFeatures_learningRate"
 ## Installazione
 
     pip install -r requirements.txt
+    
+* docutils==0.18.1
+* future==0.18.2
+* hyperopt==0.2.7
+* keyring==23.5.0
+* matplotlib==3.3.4
+* numpy==1.20.0
+* optbinning==0.14.1
+* pandas==1.4.2
+* plotly==4.14.3
+* scikit-learn==1.0.1
+* scipy==1.6.0
+* torch==1.10.2
+* tqdm==4.62.3<br>
+* 
 **Versione di python utilizzata: python 3.9**
 
 
