@@ -69,6 +69,7 @@ del file sarà "nomeDataset_numeroFeatures_learningRate"
 
 
 ## Guida all'utilizzo
+Per avviare l'apprendimento di un modello, è necessario eseguire il file "hyp_opt.py", da ide o da linea di comando.<br> 
 Il codice può essere eseguito in due differenti modi
 
   * Senza parametri: se si decide di eseguire il codice senza alcun parametro, l'esperimento di default che verrà condotto farà uso di maldroid come dataset, un numero di features pari a 2, approccio gaussiano e quindi senza alcun algoritmo di discretizzazione
